@@ -1,6 +1,6 @@
 # Solution
 
-The solutions are broken down into different folders which are indicative of the differnt sections of the interview
+The solutions are broken down into different folders which are indicative of the different sections
 
 ## Section 1 - Programming and Algorithm
 
