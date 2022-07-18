@@ -4,7 +4,7 @@ The solutions are broken down into different folders which are indicative of the
 
 ## Section 1 - Programming and Algorithm
 
-The folder consists of 3 files , with each file being a solution to the problem stated in the section.
+The folder consists of 4 files , with each file being a solution to the problem stated in the section.
 
 ## Section 2 - DATABASES AND SQL
 
